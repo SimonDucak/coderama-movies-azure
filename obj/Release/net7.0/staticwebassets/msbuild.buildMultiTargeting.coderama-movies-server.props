@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/coderama-movies-server.props" />
+</Project>
